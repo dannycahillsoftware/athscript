@@ -1,1 +1,7 @@
-# athscript
+# Solana Token All-Time-High script
+
+This repo contains a simple script that allows you to get the all time high value of some Solana Tokens from the CoinGecko API. 
+
+Limitations: CoinGecko only lists a subset of all tokens launched. I'm trying to make this script more robust by interfacing with a differnt API that has data about all coins.
+
+If you want to use this script, just fork it and replace my hidden API key with your own. Go to the CoinGecko developers console and make your own key if you don't already have one. 
